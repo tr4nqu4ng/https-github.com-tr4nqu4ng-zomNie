@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zomNie", "zomNie\zomNie.csproj", "{65D8A607-6F24-4D40-8D1D-380D3A89067F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65D8A607-6F24-4D40-8D1D-380D3A89067F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65D8A607-6F24-4D40-8D1D-380D3A89067F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65D8A607-6F24-4D40-8D1D-380D3A89067F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65D8A607-6F24-4D40-8D1D-380D3A89067F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {458BAB5B-C913-40A1-A81F-F2723D461906}
+	EndGlobalSection
+EndGlobal
